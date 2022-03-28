@@ -15,7 +15,7 @@ NYC has an excellent bike sharing service called Citibike. It's useful for daily
 
 The purpose of this analyses is to explore the NYC Citibike data through visualization in order to pursue investors to fund a bike sharing service in Des Moines, Iowa.
 
-The visualizations as a story can be found at this [Link](https://public.tableau.com/app/profile/nusrat.jahan7803/viz/NYCCitibikeViz/NYCCitibikeViz)
+The visualizations as a story can be found at this [Link](https://public.tableau.com/app/profile/nusrat.jahan7803/viz/NYCCitibikeViz/NYCCitibikeViz).
 
 ## Results
 
