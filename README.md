@@ -16,6 +16,7 @@ NYC has an excellent bike sharing service called Citibike. It's useful for daily
 The purpose of this analyses is to explore the NYC Citibike data through visualization in order to pursue investors to fund a bike sharing service in Des Moines, Iowa.
 
 The visualizations as a story can be found at this [Link](https://public.tableau.com/app/profile/nusrat.jahan7803/viz/NYCCitibikeViz/NYCCitibikeViz)
+
 ## Results
 
 ### Transformation of tripduration variable
@@ -28,7 +29,7 @@ Using Pandas, created a dataframe from our data source and changed the datatype 
 
 The data show evidence that the current generation of people use bike more than previous generations.
 
-![Biking trend]()
+![Biking trend](https://github.com/Nusratnimme/citibike-sharing/blob/main/Images/Bike%20trend.png)
 
 
 ### User Breakdown
